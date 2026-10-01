@@ -1,0 +1,10 @@
+
+__pycache__/
+*.py[cod]
+/build/
+/dist/
+/Atarefado.spec
+tarefas.json
+.venv/
+venv/
+.vscode/
